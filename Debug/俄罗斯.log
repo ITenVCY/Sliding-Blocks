@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\qin\desktop\基于easyx小游戏制作\俄罗斯\main.cpp(238): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\qin\desktop\基于easyx小游戏制作\俄罗斯\main.cpp(114): warning C4715: “Gameover”: 不是所有的控件路径都返回值
+  俄罗斯.vcxproj -> C:\Users\qin\Desktop\基于easyx小游戏制作\俄罗斯\Debug\俄罗斯.exe
+  俄罗斯.vcxproj -> C:\Users\qin\Desktop\基于easyx小游戏制作\俄罗斯\Debug\俄罗斯.pdb (Full PDB)
